@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">FoodOrderingSystem</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="auth_failed">Invalid password or email</string>
+    <string name="username">Username</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="phone_no">Phone number</string>
+    <string name="confirm_password_">Confirm Password</string>
+    <string name="user">User</string>
+    <string name="admin">Admin</string>
+    <string name="courier">Courier</string>
+    <string name="initial_count">0</string>
+    <string name="colon1">:</string>
+    <string name="firstname">Name</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="card">Credit Card</string>
+    <string name="address">Address</string>
+    <string name="delete">Delete</string>
+    <string name="place_order">Place Order</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="delivery_fee">Delivery Fees (MYR)</string>
+    <string name="restaurant_name">restaurant_name</string>
+    <string name="restaurant_address">restaurant_address</string>
+    <string name="restaurant_cuisine">restaurant_cuisine</string>
+    <string name="food_name">Food name</string>
+    <string name="price">Price (MYR)</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="delivery">Delivery fee:</string>
+    <string name="total">Total:</string>
+    <string name="cuisine">Categories</string>
+    <string name="allergy">Allergy</string>
+    <string name="budget">budget</string>
+    <string name="back">Back</string>
+    <string name="bank">Debit/Visa/Mastercard</string>
+    <string name="ccv">CCV</string>
+    <string name="card_num">Card Number</string>
+    <string name="expire_date">Expire Year</string>
+    <string name="pay">Pay</string>
+    <string name="payment_amount">Payment Amount</string>
+    <string name="dialog_title">Filter</string>
+    <string name="dialog_filter_allergy">Filter (Allergy)</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+
+    <string-array name="cuisine_item">
+        <item>Western</item>
+        <item>Eastern</item>
+        <item>Chinese</item>
+        <item>Malay</item>
+        <item>Indian</item>
+        <item>FastFood</item>
+    </string-array>
+
+    <string-array name="allergy_item">
+        <item>None</item>
+        <item>Milk</item>
+        <item>Eggs</item>
+        <item>Peanuts</item>
+        <item>Soy</item>
+        <item>Wheat</item>
+        <item>Seafood</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="title_activity_courier_tracking">Map</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="distance">Distance</string>
+    <string name="waiting_driver_to_pick_up_order">Waiting driver to pick up order.</string>
+    <string name="view_order">View Order</string>
+</resources>
