@@ -40,21 +40,15 @@ This food ordering system consist of food order, track food order, and filter fu
 
 ## Screenshoots
 <div align="center">
- <img src="https://user-images.githubusercontent.com/61400480/176588005-8fec0143-cffc-4bce-b9df-21f9d5acb502.PNG" width="500" >
+ <img src="https://user-images.githubusercontent.com/61400480/176588005-8fec0143-cffc-4bce-b9df-21f9d5acb502.PNG" width="200" height="350">
+ <img src="https://user-images.githubusercontent.com/61400480/176588062-8e24ff18-4717-4ceb-a801-5b65fc1b4475.PNG" width="200" height="350" >
+ <img src="https://user-images.githubusercontent.com/61400480/176588106-81d77af8-d354-43ee-a045-d3a99c96e289.PNG" width="200" height="350" >
  <br/>
- <img src="https://user-images.githubusercontent.com/61400480/176588062-8e24ff18-4717-4ceb-a801-5b65fc1b4475.PNG" width="500" >
- <br/>
- <img src="https://user-images.githubusercontent.com/61400480/176588106-81d77af8-d354-43ee-a045-d3a99c96e289.PNG" width="500" >
- <br/>
- <img src="https://user-images.githubusercontent.com/61400480/176588146-3b8ae441-5a74-4d74-826a-e63c889d477f.PNG" width="500" >
+ <img src="https://user-images.githubusercontent.com/61400480/176588146-3b8ae441-5a74-4d74-826a-e63c889d477f.PNG" width="200" height="350" >
+ <img src="https://user-images.githubusercontent.com/61400480/176588190-f2977bbe-cccb-4434-9a7e-062f99614768.PNG" width="200" height="350" >
+ <img src="https://user-images.githubusercontent.com/61400480/176588240-0746cd1f-feee-438c-b656-2cf48ab6c543.PNG" width="200" height="350" >
  <br/> 
- <img src="https://user-images.githubusercontent.com/61400480/176588190-f2977bbe-cccb-4434-9a7e-062f99614768.PNG" width="500" >
- <br/> 
- <img src="https://user-images.githubusercontent.com/61400480/176588240-0746cd1f-feee-438c-b656-2cf48ab6c543.PNG" width="500" >
- <br/> 
- <img src="https://user-images.githubusercontent.com/61400480/176588272-3c739624-dd62-4c30-9e30-e994e3cd06cf.PNG" width="500" >
- <br/> 
- <img src="https://user-images.githubusercontent.com/61400480/176588321-c8f7aad6-fb01-43e1-a52a-b177ccfa1dea.PNG" width="500" >
- <br/> 
- <img src="https://user-images.githubusercontent.com/61400480/176588393-ee5edc80-f3dc-44d7-835e-62d5e7492c4b.PNG" width="500" >
+ <img src="https://user-images.githubusercontent.com/61400480/176588272-3c739624-dd62-4c30-9e30-e994e3cd06cf.PNG" width="200" height="350" >
+ <img src="https://user-images.githubusercontent.com/61400480/176588321-c8f7aad6-fb01-43e1-a52a-b177ccfa1dea.PNG" width="200" height="350" >
+ <img src="https://user-images.githubusercontent.com/61400480/176588393-ee5edc80-f3dc-44d7-835e-62d5e7492c4b.PNG" width="200" height="350" >
 </div>
